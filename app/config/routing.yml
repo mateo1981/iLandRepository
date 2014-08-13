@@ -1,0 +1,4 @@
+bertelsmann_demo:
+    resource: "@BertelsmannDemoBundle/Resources/config/routing.yml"
+    prefix:   /
+

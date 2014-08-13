@@ -1,0 +1,7 @@
+parameters:
+#    bertelsmann_demo.example.class: Bertelsmann\DemoBundle\Example
+
+services:
+#    bertelsmann_demo.example:
+#        class: %bertelsmann_demo.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
